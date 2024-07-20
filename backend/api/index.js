@@ -23,7 +23,7 @@ mongoose
 //fix cookie
 app.use(
   cors({
-    origin: ["https://api-hunt.onrender.com"],
+    origin: ["https://vercel-api-hunt-y8ha.vercel.app"],
     methods: ["GET", "POST", "PATCH"],
     credentials: true,
   })
