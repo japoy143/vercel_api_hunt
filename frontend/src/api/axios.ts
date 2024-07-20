@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = "https://api-hunt.onrender.com";
+const BASE_URL = "https://vercel-api-hunt.vercel.app";
 
 
 
